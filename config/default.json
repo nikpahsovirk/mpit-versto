@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "mpit2021",
+    "mongoUri": "mongodb+srv://nikpahsovirk:qwerty123@cluster0.awgop.mongodb.net/mpit?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+  }
